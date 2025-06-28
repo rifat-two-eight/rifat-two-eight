@@ -35,6 +35,32 @@ I'm Md. Atiqur Rahman Rifat — a passionate web developer with a background in 
 </div>
 
 
+<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
+<br>
+
+<div align="center" style="max-width: 900px; margin: auto; display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+  <a href="https://github.com/rifat-two-eight/Algorithms" title="Algorithms">
+    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=rifat-two-eight&repo=Algorithms&theme=react&border_color=61dafb&border_radius=10" alt="Algorithms repo" />
+  </a>
+
+  <a href="https://github.com/rifat-two-eight/DataStructures" title="Data Structures">
+    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=rifat-two-eight&repo=DataStructures&theme=react&border_color=61dafb&border_radius=10" alt="Data Structures repo" />
+  </a>
+
+  <a href="https://github.com/rifat-two-eight/ProjectX" title="ProjectX">
+    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=rifat-two-eight&repo=ProjectX&theme=react&border_color=61dafb&border_radius=10" alt="ProjectX repo" />
+  </a>
+
+  <a href="https://github.com/rifat-two-eight/RecipeBook" title="Recipe Book">
+    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=rifat-two-eight&repo=RecipeBook&theme=react&border_color=61dafb&border_radius=10" alt="Recipe Book repo" />
+  </a>
+</div>
+
+<br/>
+
+<h4 align="center">
+  <a href="https://github.com/rifat-two-eight?tab=repositories" title="Show More Repositories">🔎 Show More 🔍</a>
+</h4>
 
 
 

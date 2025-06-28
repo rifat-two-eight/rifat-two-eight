@@ -16,33 +16,10 @@ I'm Md. Atiqur Rahman Rifat — a passionate web developer with a background in 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rifat-two-eight&theme=github-dark-dimmed&custom_title=Rifat's%20GitHub%20Activity&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
-<!-- GitHub Stats & Top Languages Side-by-Side -->
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=rifat-two-eight&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" alt="Rifat's GitHub stats" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rifat-two-eight&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-      </a>
-    </td>
-  </tr>
-</table>
+| <a href="https://github.com/rifat-two-eight/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=rifat-two-eight&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Rifat's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rifat-two-eight&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
----
 
-### 🚀 Top Repositories
-
-<a href="https://github.com/rifat-two-eight/RecipeBook">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rifat-two-eight&repo=RecipeBook&theme=tokyonight&border_radius=10" />
-</a>
-
-<a href="https://github.com/rifat-two-eight/App-Karbar">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rifat-two-eight&repo=App-Karbar&theme=tokyonight&border_radius=10" />
-</a>
 
 <a href="https://github.com/rifat-two-eight/Law.bd">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rifat-two-eight&repo=Law.bd&theme=tokyonight&border_radius=10" />

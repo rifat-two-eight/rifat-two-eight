@@ -16,40 +16,41 @@ I'm Md. Atiqur Rahman Rifat — a passionate web developer with a background in 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rifat-two-eight&theme=github-dark-dimmed&custom_title=Rifat's%20GitHub%20Activity&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
-## 📊 GitHub Stats
+<!-- GitHub Stats & Top Languages Side-by-Side -->
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=rifat-two-eight&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" alt="Rifat's GitHub stats" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rifat-two-eight&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-<div align="center" style="
-  display: flex; 
-  justify-content: center; 
-  gap: 20px; 
-  flex-wrap: wrap; 
-  max-width: 900px;
-  margin: 0 auto;
-">
-  <img src="https://github-readme-stats.vercel.app/api?username=rifat-two-eight&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180" style="flex: 1 1 300px; max-width: 45%;" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=rifat-two-eight&theme=dark&hide_border=false" alt="GitHub Streak" height="180" style="flex: 1 1 300px; max-width: 45%;" />
-</div>
+---
 
-<div align="center" style="margin-top: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rifat-two-eight&theme=dark&hide_border=false&layout=compact" alt="Top Languages" height="180" style="max-width: 300px; width: 100%;" />
-</div>
+### 🚀 Top Repositories
 
+<a href="https://github.com/rifat-two-eight/RecipeBook">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rifat-two-eight&repo=RecipeBook&theme=tokyonight&border_radius=10" />
+</a>
 
+<a href="https://github.com/rifat-two-eight/App-Karbar">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rifat-two-eight&repo=App-Karbar&theme=tokyonight&border_radius=10" />
+</a>
 
+<a href="https://github.com/rifat-two-eight/Law.bd">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rifat-two-eight&repo=Law.bd&theme=tokyonight&border_radius=10" />
+</a>
 
-
-
-### 🔝 Top Contributed Repo
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=rifat-two-eight&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
-</p>
-
-<hr />
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=rifat-two-eight&icon=0&color=0" alt="Visitor Count" />
-</p>
+<a href="https://github.com/rifat-two-eight/AcademIQ">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rifat-two-eight&repo=AcademIQ&theme=tokyonight&border_radius=10" />
+</a>
 
 
 

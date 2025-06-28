@@ -16,10 +16,16 @@ I'm Md. Atiqur Rahman Rifat — a passionate web developer with a background in 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rifat-two-eight&theme=github-dark-dimmed&custom_title=Rifat's%20GitHub%20Activity&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=rifat-two-eight&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=rifat-two-eight&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rifat-two-eight&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rifat-two-eight&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=rifat-two-eight&theme=dark&hide_border=false" alt="GitHub Streak" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rifat-two-eight&theme=dark&hide_border=false&layout=compact" alt="Top Languages" height="180"/>
+</p>
 
 
 

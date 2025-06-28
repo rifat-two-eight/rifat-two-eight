@@ -23,7 +23,7 @@ I'm Md. Atiqur Rahman Rifat — a passionate web developer with a background in 
 
 <p align="center"> 
   Visitors count<br>
-  <img src="https://profile-counter.glitch.me/garimasingh128/count.svg" />
+  <img src="https://profile-counter.glitch.me/rifat-two-eight/count.svg" />
 </p>
 
 <img src="stats.gif" width="90%"><br/><br/>

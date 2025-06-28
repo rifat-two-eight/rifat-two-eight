@@ -18,14 +18,22 @@ I'm Md. Atiqur Rahman Rifat — a passionate web developer with a background in 
 
 ## 📊 GitHub Stats
 
-<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-  <img src="https://github-readme-stats.vercel.app/api?username=rifat-two-eight&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=rifat-two-eight&theme=dark&hide_border=false" alt="GitHub Streak" height="180" />
+<div align="center" style="
+  display: flex; 
+  justify-content: center; 
+  gap: 20px; 
+  flex-wrap: wrap; 
+  max-width: 900px;
+  margin: 0 auto;
+">
+  <img src="https://github-readme-stats.vercel.app/api?username=rifat-two-eight&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180" style="flex: 1 1 300px; max-width: 45%;" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=rifat-two-eight&theme=dark&hide_border=false" alt="GitHub Streak" height="180" style="flex: 1 1 300px; max-width: 45%;" />
 </div>
 
 <div align="center" style="margin-top: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rifat-two-eight&theme=dark&hide_border=false&layout=compact" alt="Top Languages" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rifat-two-eight&theme=dark&hide_border=false&layout=compact" alt="Top Languages" height="180" style="max-width: 300px; width: 100%;" />
 </div>
+
 
 
 

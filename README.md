@@ -21,22 +21,13 @@ I'm Md. Atiqur Rahman Rifat — a passionate web developer with a background in 
 | <a href="https://github.com/rifat-two-eight/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=rifat-two-eight&show_icons=true&include_all_commits=true&hide_border=true&title_color=003366" alt="Rifat's github stats" /></a> | <a href="https://github.com/rifat-two-eight/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rifat-two-eight&layout=compact&hide_border=true&title_color=003366" /></a> |
 | ------------- | ------------- |
 
-<!-- 💠 Visitor Counter -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=003366&height=100&section=header&text=Welcome%20Visitor!&fontColor=ffffff&fontSize=25&fontAlign=50&fontAlignY=40" />
-</p>
+<h3 align="center">👁️ Total Profile Visitors</h3>
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/rifat-two-eight/count.svg" alt="Visitor Count" />
-  <br/>
-  <strong style="color:#003366;">Thanks for stopping by!</strong>
-</p>
-
-<!-- 📊 Animated Stats GIF -->
-<p align="center">
-  <img src="stats.gif" width="85%" alt="GitHub Stats Animation" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);" />
+  <img src="https://profile-counter.glitch.me/rifat-two-eight/count.svg" alt="Visitor Counter" style="margin-top: 10px;" />
 </p>
 
 <hr />
+
 
 

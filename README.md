@@ -17,6 +17,14 @@ I'm Md. Atiqur Rahman Rifat — a passionate web developer with a background in 
 ![](https://nirzak-streak-stats.vercel.app/?user=rifat-two-eight&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rifat-two-eight&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+<p  align="center">
+  <img src="https://raw.githubusercontent.com/mmphego/mmphego/master/profile-summary-card-output/default/0-profile-details.svg" alt="github stats"></br>
+  <img src="https://raw.githubusercontent.com/mmphego/mmphego/master/profile-summary-card-output/default/1-repos-per-language.svg">
+  <img src="https://raw.githubusercontent.com/mmphego/mmphego/master/profile-summary-card-output/default/2-most-commit-language.svg"></br></p>
+
+NOTE: This does not indicate my skill level or language proficiency, it's merely a GitHub metric of which languages I have the most code of on GitHub.
+
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=rifat-two-eight&limit=5&theme=dark&combine_all_yearly_contributions=true)
 

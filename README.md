@@ -16,6 +16,7 @@ I'm Md. Atiqur Rahman Rifat — a passionate web developer with a background in 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rifat-two-eight&theme=github-dark-dimmed&custom_title=Rifat's%20GitHub%20Activity&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
-| <a href="https://github.com/rifat-two-eight/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=rifat-two-eight&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Rifat's github stats" /></a> | <a href="https://github.com/rifat-two-eight/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rifat-two-eight&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/rifat-two-eight/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=rifat-two-eight&show_icons=true&include_all_commits=true&hide_border=true&title_color=003366&text_color=003366&icon_color=003366" alt="Rifat's github stats" /></a> | <a href="https://github.com/rifat-two-eight/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rifat-two-eight&layout=compact&hide_border=true&title_color=003366&text_color=003366" /></a> |
 | ------------- | ------------- |
+
 

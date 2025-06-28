@@ -25,7 +25,7 @@ I'm Md. Atiqur Rahman Rifat — a passionate web developer with a background in 
 
 <p align="center">
   <a href="https://github.com/rifat-two-eight">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rifat-two-eight&theme=dark&hide_border=false" alt="GitHub Streak" />
+    <img src="https://nirzak-streak-stats.vercel.app/?user=rifat-two-eight&theme=dark&hide_border=false" alt="GitHub Streak" />
   </a>
 </p>
 

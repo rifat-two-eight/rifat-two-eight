@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hello%2C+World!+👋;I'm+Md.+Atiqur+Rahman+Rifat.;Frontend+Developer+%7C+MERN+Stack+Enthusiast.;Welcome+to+my+GitHub+profile!">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=500&color=1F75FE&center=true&vCenter=true&width=800&lines=Hi+there%2C+I'm+Md.+Atiqur+Rahman+Rifat.;Frontend+Web+Developer+%7C+MERN+Stack+Enthusiast.;Clean+Code.+Modern+UI.%2C+Always+Learning.">
   </a>
 </h1>
 # 💫 About Me:

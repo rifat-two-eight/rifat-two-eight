@@ -16,18 +16,5 @@ I'm Md. Atiqur Rahman Rifat — a passionate web developer with a background in 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rifat-two-eight&theme=github-dark-dimmed&custom_title=Rifat's%20GitHub%20Activity&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
-| <a href="https://github.com/rifat-two-eight/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=rifat-two-eight&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Rifat's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rifat-two-eight&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=rifat-two-eight&show_icons=true&include_all_commits=true&hide_border=true&title_color=1F75FE&text_color=1F75FE&icon_color=1F75FE" alt="Rifat's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rifat-two-eight&layout=compact&hide_border=true&title_color=1F75FE&text_color=1F75FE" /></a> |
 | ------------- | ------------- |
-
-
-
-<a href="https://github.com/rifat-two-eight/Law.bd">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rifat-two-eight&repo=Law.bd&theme=tokyonight&border_radius=10" />
-</a>
-
-<a href="https://github.com/rifat-two-eight/AcademIQ">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rifat-two-eight&repo=AcademIQ&theme=tokyonight&border_radius=10" />
-</a>
-
-
-

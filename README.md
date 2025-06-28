@@ -3,7 +3,8 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=500&color=003366&center=true&vCenter=true&width=800&lines=Hi+there%2C+I'm+Md.+Atiqur+Rahman+Rifat.;Frontend+Web+Developer+%7C+MERN+Stack+Enthusiast.;Welcome+to+my+GitHub+profile!">
   </a>
 </h1>
-# 💫 About Me:
+
+## 💫 About Me:
 I'm Md. Atiqur Rahman Rifat — a passionate web developer with a background in Computer Science, specializing in the MERN Stack. I love building efficient, scalable web applications and solving complex problems through code. I'm driven by a deep interest in technology and a future goal of becoming a highly skilled, impactful developer in the tech industry.
 
 
@@ -13,8 +14,19 @@ I'm Md. Atiqur Rahman Rifat — a passionate web developer with a background in 
 # 💻 Tech Stack:
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
+## 📈 GitHub Activity Graph
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rifat-two-eight&theme=github-dark-dimmed&custom_title=Rifat's%20GitHub%20Activity&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-
+## 📊 GitHub Stats & Most Used Languages
 | <a href="https://github.com/rifat-two-eight/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=rifat-two-eight&show_icons=true&include_all_commits=true&hide_border=true&title_color=003366" alt="Rifat's github stats" /></a> | <a href="https://github.com/rifat-two-eight/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rifat-two-eight&layout=compact&hide_border=true&title_color=003366" /></a> |
 | ------------- | ------------- |
+
+<p align="center"> 
+  Visitors count<br>
+  <img src="https://profile-counter.glitch.me/garimasingh128/count.svg" />
+</p>
+
+<img src="stats.gif" width="90%"><br/><br/>
+
+***
+

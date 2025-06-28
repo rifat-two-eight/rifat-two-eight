@@ -1,3 +1,8 @@
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Osman+DURDAĞ....;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
 # 💫 About Me:
 I'm Md. Atiqur Rahman Rifat — a passionate web developer with a background in Computer Science, specializing in the MERN Stack. I love building efficient, scalable web applications and solving complex problems through code. I'm driven by a deep interest in technology and a future goal of becoming a highly skilled, impactful developer in the tech industry.
 

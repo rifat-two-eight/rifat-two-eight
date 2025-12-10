@@ -1,42 +1,55 @@
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=500&color=00BFFF&center=true&vCenter=true&width=800&lines=Hi+there%2C+I'm+Md.+Atiqur+Rahman+Rifat.;Frontend+Web+Developer+%7C+MERN+Stack+Enthusiast.;Welcome+to+my+GitHub+profile!">
-</a>
 </h1>
 
-## 💫 About Me:
-I'm Md. Atiqur Rahman Rifat — a passionate web developer with a background in Computer Science, specializing in the MERN Stack. I love building efficient, scalable web applications and solving complex problems through code. I'm driven by a deep interest in technology and a future goal of becoming a highly skilled, impactful developer in the tech industry.
+## 💫 About Me
+I'm Md. Atiqur Rahman Rifat — a passionate web developer specializing in **Frontend & MERN Stack development**. I enjoy building **efficient, scalable web applications** and tackling **complex challenges** through code. I'm always eager to learn and grow as a developer in the tech industry.
 
+- 🔭 Currently working as a **Frontend Developer at Sparktech Agency**
+- 🌱 Learning **Next.js, TypeScript, and advanced React patterns**
+- 💬 Ask me about **React, Node.js, MongoDB, TailwindCSS**
+- ⚡ Fun fact: I love **designing UIs** and making clean, responsive layouts.
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/atiqurrahman.rifat.73/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rifat-28-dev/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rifat28.dev@gmail.com) 
+## 🌐 Connect with Me
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/atiqurrahman.rifat.73/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rifat-28-dev/) 
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rifat28.dev@gmail.com) 
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/rifat-two-eight)
 
-# 💻 Tech Stack:
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+## 💻 Tech Stack
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) 
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) 
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/MongoDB-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white) 
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) 
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) 
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white) 
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) 
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white) 
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 
-## 📈 GitHub Activity Graph
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rifat-two-eight&theme=github-dark-dimmed&custom_title=Rifat's%20GitHub%20Activity&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+## 📊 GitHub Stats
+[![Rifat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rifat-two-eight&show_icons=true&include_all_commits=true&hide_border=true&theme=github_dark)](https://github.com/rifat-two-eight) 
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rifat-two-eight&layout=compact&hide_border=true&theme=github_dark)](https://github.com/rifat-two-eight)
 
-## 📊 GitHub Stats & Most Used Languages
-| <a href="https://github.com/rifat-two-eight/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=rifat-two-eight&show_icons=true&include_all_commits=true&hide_border=true&title_color=003366" alt="Rifat's github stats" /></a> | <a href="https://github.com/rifat-two-eight/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rifat-two-eight&layout=compact&hide_border=true&title_color=003366" /></a> |
-| ------------- | ------------- |
-
-## 🔥 Current GitHub Streak
-
+## 🔥 GitHub Streak
 <p align="center">
   <a href="https://github.com/rifat-two-eight">
     <img src="https://nirzak-streak-stats.vercel.app/?user=rifat-two-eight&theme=dark&hide_border=false" alt="GitHub Streak" />
   </a>
 </p>
 
-
-<h3 align="center">Total Profile Visitors</h3>
-
+## 👀 Visitor Count
 <p align="center">
-  <img src="https://profile-counter.glitch.me/rifat-two-eight/count.svg" alt="Visitor Counter" style="margin-top: 10px;" />
+  <img src="https://profile-counter.glitch.me/rifat-two-eight/count.svg" alt="Visitor Counter" />
 </p>
 
-<hr />
+---
 
-
+### ✨ Extra Additions:
+- Added **fun fact & current learning focus** in About Me for personality.
+- Updated social links (removed invalid duplicates).
+- Cleaned badges and removed old ones like Context-API or DaisyUI if unused.
+- Kept your **typing animation** and GitHub stats sections for visual appeal.
 

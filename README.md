@@ -5,10 +5,6 @@
 ## 💫 About Me
 I'm Md. Atiqur Rahman Rifat — a passionate web developer specializing in **Frontend & MERN Stack development**. I enjoy building **efficient, scalable web applications** and tackling **complex challenges** through code. I'm always eager to learn and grow as a developer in the tech industry.
 
-- 🔭 Currently working as a **Frontend Developer at Sparktech Agency**
-- 🌱 Learning **Next.js, TypeScript, and advanced React patterns**
-- 💬 Ask me about **React, Node.js, MongoDB, TailwindCSS**
-- ⚡ Fun fact: I love **designing UIs** and making clean, responsive layouts.
 
 ## 🌐 Connect with Me
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/atiqurrahman.rifat.73/) 
@@ -28,28 +24,4 @@ I'm Md. Atiqur Rahman Rifat — a passionate web developer specializing in **Fro
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) 
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white) 
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-
-## 📊 GitHub Stats
-[![Rifat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rifat-two-eight&show_icons=true&include_all_commits=true&hide_border=true&theme=github_dark)](https://github.com/rifat-two-eight) 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rifat-two-eight&layout=compact&hide_border=true&theme=github_dark)](https://github.com/rifat-two-eight)
-
-## 🔥 GitHub Streak
-<p align="center">
-  <a href="https://github.com/rifat-two-eight">
-    <img src="https://nirzak-streak-stats.vercel.app/?user=rifat-two-eight&theme=dark&hide_border=false" alt="GitHub Streak" />
-  </a>
-</p>
-
-## 👀 Visitor Count
-<p align="center">
-  <img src="https://profile-counter.glitch.me/rifat-two-eight/count.svg" alt="Visitor Counter" />
-</p>
-
----
-
-### ✨ Extra Additions:
-- Added **fun fact & current learning focus** in About Me for personality.
-- Updated social links (removed invalid duplicates).
-- Cleaned badges and removed old ones like Context-API or DaisyUI if unused.
-- Kept your **typing animation** and GitHub stats sections for visual appeal.
 

@@ -25,3 +25,14 @@ I'm Md. Atiqur Rahman Rifat — a passionate web developer specializing in **Fro
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white) 
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 
+## 📊 GitHub Stats
+[![Rifat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rifat-two-eight&show_icons=true&include_all_commits=true&hide_border=true&theme=github_dark)](https://github.com/rifat-two-eight) 
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rifat-two-eight&layout=compact&hide_border=true&theme=github_dark)](https://github.com/rifat-two-eight)
+
+## 🔥 GitHub Streak
+<p align="center">
+  <a href="https://github.com/rifat-two-eight">
+    <img src="https://nirzak-streak-stats.vercel.app/?user=rifat-two-eight&theme=dark&hide_border=false" alt="GitHub Streak" />
+  </a>
+</p>
+

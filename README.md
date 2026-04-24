@@ -28,8 +28,6 @@ I'm Md. Atiqur Rahman Rifat — a passionate web developer specializing in **Fro
 
 ## 🔥 GitHub Streak
 <p align="center">
-  <a href="https://github.com/rifat-two-eight">
-    <img src="https://nirzak-streak-stats.vercel.app/?user=rifat-two-eight&theme=dark&hide_border=false" alt="GitHub Streak" />
-  </a>
+  <img src="https://streak-stats.demolab.com?user=rifat-two-eight&theme=dark&hide_border=false" alt="GitHub Streak" />
 </p>
 

@@ -32,5 +32,5 @@ I'm Md. Atiqur Rahman Rifat — a passionate web developer specializing in **Fro
 </p>
  -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rifat-two-eight&theme=dark&hide_border=false" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rifat-two-eight&show_icons=true&theme=dark" />
 </p>

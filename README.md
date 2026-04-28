@@ -1,6 +1,12 @@
+
+
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=500&color=00BFFF&center=true&vCenter=true&width=800&lines=Hi+there%2C+I'm+Md.+Atiqur+Rahman+Rifat.;Frontend+Web+Developer+%7C+MERN+Stack+Enthusiast.;Welcome+to+my+GitHub+profile!">
 </h1>
+
+<p align="center">
+  <img src="./img/rifat.png" alt="Rifat" style="width: 100%; height: auto; display: block;"/>
+</p>
 
 <p align="center">
   <a href="https://github.com/apponislam">

@@ -27,7 +27,10 @@ I'm Md. Atiqur Rahman Rifat — a passionate web developer specializing in **Fro
 
 
 ## 🔥 GitHub Streak
-<p align="center">
+<!-- <p align="center">
   <img src="https://streak-stats.demolab.com?user=rifat-two-eight&theme=dark&hide_border=false" alt="GitHub Streak" />
 </p>
-
+ -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rifat-two-eight&theme=dark&hide_border=false" />
+</p>

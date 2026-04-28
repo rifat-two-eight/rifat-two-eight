@@ -2,6 +2,12 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=500&color=00BFFF&center=true&vCenter=true&width=800&lines=Hi+there%2C+I'm+Md.+Atiqur+Rahman+Rifat.;Frontend+Web+Developer+%7C+MERN+Stack+Enthusiast.;Welcome+to+my+GitHub+profile!">
 </h1>
 
+<p align="center">
+  <a href="https://github.com/apponislam">
+    <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=apponislam&theme=onedark" alt="GitHub Trophies" />
+  </a>
+</p>
+
 ## 💫 About Me
 I'm Md. Atiqur Rahman Rifat — a passionate web developer specializing in **Frontend & MERN Stack development**. I enjoy building **efficient, scalable web applications** and tackling **complex challenges** through code. I'm always eager to learn and grow as a developer in the tech industry.
 

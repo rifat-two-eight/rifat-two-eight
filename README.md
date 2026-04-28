@@ -31,6 +31,12 @@ I'm Md. Atiqur Rahman Rifat — a passionate web developer specializing in **Fro
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white) 
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 
+## 🔥 Top Languages
+
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=rifat-two-eight&layout=compact&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
+</p>
+<br/>
 
 ## 🔥 GitHub Streak
 

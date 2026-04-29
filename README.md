@@ -40,11 +40,7 @@ I'm Md. Atiqur Rahman Rifat — a passionate web developer specializing in **Fro
 </p>
 <br/>
 
-<p align="center">
-  <a href="https://github.com/apponislam">
-    <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=rifat-two-eight&theme=onedark" alt="GitHub Trophies" />
-  </a>
-</p>
+
 
 ## 🔥 GitHub Streak
 
@@ -54,6 +50,12 @@ I'm Md. Atiqur Rahman Rifat — a passionate web developer specializing in **Fro
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rifat-two-eight&show_icons=true&theme=dark" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/rifat-two-eight">
+    <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=rifat-two-eight&theme=onedark" alt="GitHub Trophies" />
+  </a>
 </p>
 
 <p align="center">

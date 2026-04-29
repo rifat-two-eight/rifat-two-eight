@@ -8,11 +8,7 @@
   <img src="./img/rifat.png" alt="Rifat" style="width: 100%; height: auto; display: block;"/>
 </p>
 
-<p align="center">
-  <a href="https://github.com/apponislam">
-    <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=rifat-two-eight&theme=onedark" alt="GitHub Trophies" />
-  </a>
-</p>
+
 
 ## 💫 About Me
 I'm Md. Atiqur Rahman Rifat — a passionate web developer specializing in **Frontend & MERN Stack development**. I enjoy building **efficient, scalable web applications** and tackling **complex challenges** through code. I'm always eager to learn and grow as a developer in the tech industry.
@@ -43,6 +39,12 @@ I'm Md. Atiqur Rahman Rifat — a passionate web developer specializing in **Fro
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=rifat-two-eight&layout=compact&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
 </p>
 <br/>
+
+<p align="center">
+  <a href="https://github.com/apponislam">
+    <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=rifat-two-eight&theme=onedark" alt="GitHub Trophies" />
+  </a>
+</p>
 
 ## 🔥 GitHub Streak
 

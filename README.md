@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  <img src="./img/rifat.png" alt="Rifat" style="width: 100%; height: auto; display: block;"/>
+  <img src="./img/rifat2.png" alt="Rifat" style="width: 100%; height: auto; display: block;"/>
 </p>
 
 

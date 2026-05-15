@@ -41,6 +41,12 @@ I'm Md. Atiqur Rahman Rifat — a passionate web developer specializing in **Fro
 <br/>
 
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rifat-two-eight/rifat-two-eight/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
+
 
 ## 🔥 GitHub Streak
 

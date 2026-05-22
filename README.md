@@ -1,7 +1,7 @@
 
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=500&color=00BFFF&center=true&vCenter=true&width=800&lines=Hi+there%2C+I'm+Md.+Atiqur+Rahman+Rifat.;Frontend+Web+Developer+%7C+MERN+Stack+Enthusiast.;Welcome+to+my+GitHub+profile!">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=500&color=00BFFF&center=true&vCenter=true&width=800&lines=Hi+there%2C+I'm+Md.+Atiqur+Rahman+Rifat.;Fullstack+Web+Developer+%7C+MERN+Stack+Enthusiast.;Welcome+to+my+GitHub+profile!">
 </h1>
 
 <p align="center">
@@ -62,10 +62,6 @@ I'm Md. Atiqur Rahman Rifat — a passionate web developer specializing in **Fro
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="280" />
-
-<br/><br/>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Rifat+%F0%9F%91%8B;Frontend+Developer;React+%7C+Next.js+Enthusiast;Building+cool+web+experiences;while(cat.isCoding())+%7B+coffee++;+%7D" />
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="300"/>
 
 </div>

@@ -58,3 +58,15 @@ I'm Md. Atiqur Rahman Rifat — a passionate web developer specializing in **Fro
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=rifat-two-eight&theme=dark&hide_border=false" alt="GitHub Streak" />
 </p>
+
+
+<!-- GitHub Profile README Cat Coding Animation -->
+<div align="center">
+  <img 
+    src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" 
+    width="300"
+    alt="Cat Coding"
+  />
+</div>
+
+<h3 align="center">🐱‍💻 Coding Mode: ON</h3>

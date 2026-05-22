@@ -70,3 +70,15 @@ I'm Md. Atiqur Rahman Rifat — a passionate web developer specializing in **Fro
 </div>
 
 <h3 align="center">🐱‍💻 Coding Mode: ON</h3>
+
+
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Frontend+Developer;React+%7C+Next.js+Developer;Cat+Powered+Coding+%F0%9F%90%B1%E2%80%8D%F0%9F%92%BB" />
+
+<br><br>
+
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="280"/>
+
+</div>

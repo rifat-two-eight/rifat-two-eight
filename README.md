@@ -60,25 +60,12 @@ I'm Md. Atiqur Rahman Rifat — a passionate web developer specializing in **Fro
 </p>
 
 
-<!-- GitHub Profile README Cat Coding Animation -->
-<div align="center">
-  <img 
-    src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" 
-    width="300"
-    alt="Cat Coding"
-  />
-</div>
-
-<h3 align="center">🐱‍💻 Coding Mode: ON</h3>
-
-
-
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Frontend+Developer;React+%7C+Next.js+Developer;Cat+Powered+Coding+%F0%9F%90%B1%E2%80%8D%F0%9F%92%BB" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+%7C+Next.js+Developer;Building+cool+stuff...;Cat+is+busy+coding+%F0%9F%90%B1%E2%80%8D%F0%9F%92%BB" />
 
-<br><br>
+<br/>
 
-<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="280"/>
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbndlcDJtNHU4d3hjYjcyNjR1NWxjZG42dTl0bmt2eG5mbzRtbGgwOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/25Itcrcuwkyq3ohubJ/giphy.gif" width="320" />
 
 </div>

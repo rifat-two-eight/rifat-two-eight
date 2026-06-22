@@ -60,6 +60,17 @@ I'm Md. Atiqur Rahman Rifat — a passionate web developer specializing in **Fro
 </p>
 
 
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rifat-two-eight&theme=onedark" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rifat-two-eight&theme=onedark&hide_border=true" />
+</p>
+
+
 <div align="center">
 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="300"/>
